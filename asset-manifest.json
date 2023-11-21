@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlurryFlix/static/css/main.27ed4e83.css",
+    "main.js": "/FlurryFlix/static/js/main.fcc4a991.js",
+    "static/js/787.36f89af2.chunk.js": "/FlurryFlix/static/js/787.36f89af2.chunk.js",
+    "index.html": "/FlurryFlix/index.html",
+    "main.27ed4e83.css.map": "/FlurryFlix/static/css/main.27ed4e83.css.map",
+    "main.fcc4a991.js.map": "/FlurryFlix/static/js/main.fcc4a991.js.map",
+    "787.36f89af2.chunk.js.map": "/FlurryFlix/static/js/787.36f89af2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ed4e83.css",
+    "static/js/main.fcc4a991.js"
+  ]
+}
